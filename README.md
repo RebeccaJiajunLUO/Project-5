@@ -1,12 +1,15 @@
 # Project-5 
 
-1) Your ERC-721 Token Name
+1) Your ERC-721 Token Name:
+
 Thunisoft Evidence Token
 
-2) Your ERC-721 Token Symbol
+2) Your ERC-721 Token Symbol:
+
 TET
 
-3) Version of the Truffle and OpenZeppelin used
+3) Version of the Truffle and OpenZeppelin used:
+
 Truffle v5.0.2 (core: 5.0.2)
 openzeppelin-solidity@2.1.3
 
